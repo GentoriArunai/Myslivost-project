@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Myslivost</string>
+    <string name="isOccupied">Je posed obsazený?</string>
+    <string name="comments">Komentáře</string>
+    <string name="newComment">Přidat komentář</string>
+    <string name="setOccupied">Zde sedím já</string>
+
+    <string name="title_activity_maps">Map</string>
+
+</resources>
